@@ -1,0 +1,1 @@
+This is Olga's first git project.
